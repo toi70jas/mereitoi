@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mereitoi/static/css/main.ed412a90.css",
+    "main.js": "/mereitoi/static/js/main.a644206e.js",
+    "static/js/453.84b8297a.chunk.js": "/mereitoi/static/js/453.84b8297a.chunk.js",
+    "index.html": "/mereitoi/index.html",
+    "main.ed412a90.css.map": "/mereitoi/static/css/main.ed412a90.css.map",
+    "main.a644206e.js.map": "/mereitoi/static/js/main.a644206e.js.map",
+    "453.84b8297a.chunk.js.map": "/mereitoi/static/js/453.84b8297a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed412a90.css",
+    "static/js/main.a644206e.js"
+  ]
+}
